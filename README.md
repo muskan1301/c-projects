@@ -10,5 +10,4 @@ Any constructive contribution to the project is __Welcomed!__
 
 ### For Personal Queries, One Can Reach Me At
 
-__*INSTAGRAM*__
-https://www.instagram.com/multidimensionalspacesnake/
+[__*INSTAGRAM*__](https://www.instagram.com/multidimensionalspacesnake/)
