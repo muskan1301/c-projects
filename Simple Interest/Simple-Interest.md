@@ -19,9 +19,7 @@ First line represents principal amount P. Second line represents a rate of inter
 
 Assume that,
 
-P is an integer within the range (0 to 2,147,483,647).
-R is a double within the range (0 to 1000).
-T is an integer within the range (0 to 2,147,483,647).
+P, R, T is given in float (Range= from 1.2E-38 to 3.4E+38)
 
 ### Output Format
 
