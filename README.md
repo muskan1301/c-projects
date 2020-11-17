@@ -10,7 +10,8 @@ Any constructive contribution to the project is __Welcomed!__
 
 ### For Personal Queries, One Can Reach Me At
 
-1. [__*LINKEDIN*__](https://www.linkedin.com/in/moulik-chaturvedi-7b7aab157/)
-2. [__*INSTAGRAM*__](https://www.instagram.com/multidimensionalspacesnake/)
+1. [__*E-Mail*__](mailto:moulik.chaturvedi26@gmail.com)
+2. [__*LINKEDIN*__](https://www.linkedin.com/in/moulik-chaturvedi-7b7aab157/)
+3. [__*INSTAGRAM*__](https://www.instagram.com/multidimensionalspacesnake/)
 
 __*HAPPY CODING!*__
